@@ -139,15 +139,3 @@ I don't have comments as I don't want to manage them. You can however contact me
  - [ Email singhvikal891@gmail.com](mailto:singhvikal891@gmail.com)
 
 
-
-#### License 
-
-[The contents of this site is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.](https://creativecommons.org/licenses/by-sa/4.0/)
-
-
-#### Credit:
- - [Harsh/Sei](https://github.com/seicq)
- - [Me](https://github.com/vikmenace)
-
-
-[=> Return to Homepage](https://vikmenace.github.io)
