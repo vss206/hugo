@@ -1,20 +1,11 @@
 ---
 title: 'Guide To Git'
 date: 2023-09-05T15:52:24+05:30
-authors: ["Vikal Singh"]
-description: ""
-tags: ["git","github","gitlab","linux","Version Control","computer","technology"]
-categories: [""]
-series: [""]
-url: ""
-slug: ""
-externalLink: ""
-featuredImage: ""
-disableComments: true
 draft: false
 ---
 
 This is a practical guide for git, and it is mainly aimed towards the ones who have no idea on what and how to use git. If you know someone who does not know how to use git, share them this article.
+
 
 
 

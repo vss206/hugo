@@ -1,15 +1,6 @@
 ---
 title: " DWM Setup"
 date: 2023-07-15T15:37:27+05:30
-authors: ["Vikal Singh"]
-description: ""
-tags: ["dwm","dmenu","st","linux","suckless"]
-categories: [""]
-series: [""]
-url: ""
-externalLink: ""
-featuredImage: ""
-disableComments: true
 draft: false
 ---
 
@@ -18,6 +9,7 @@ draft: false
 <div align="center">
 <img src="/images/IMG_20230705_080551_895.png" alt="Image" width=100%>
 </div>
+
 
 ### Introduction
 

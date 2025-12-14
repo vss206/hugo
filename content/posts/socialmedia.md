@@ -1,15 +1,6 @@
 ---
 title: "Dark Side of Social Media"
 date: 2023-08-04T15:37:27+05:30
-authors: ["Vikal Singh"]
-description: ""
-tags: ["Social","fb","Instagram","tiktok","YTshorts"]
-categories: [""]
-series: [""]
-url: ""
-externalLink: ""
-featuredImage: ""
-disableComments: true
 draft: false
 ---
 

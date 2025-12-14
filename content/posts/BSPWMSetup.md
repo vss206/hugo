@@ -1,17 +1,9 @@
 ---
 title: "BSPWM Setup"
 date: 2023-07-05T15:37:27+05:30
-authors: ["Vikal Singh"]
-description: ""
-tags: ["Bspwm","dmenu","st","linux","sxhkd","alacritty","polybar"]
-categories: [""]
-series: [""]
-url: ""
-externalLink: ""
-featuredImage: ""
-disableComments: true
 draft: false
 ---
+
 
 ### Installing ST, DMENU, and BSPWM
 

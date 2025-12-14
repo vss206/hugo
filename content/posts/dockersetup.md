@@ -1,22 +1,15 @@
 ---
 title: "Docker Installation"
 date: 2023-08-23T15:37:27+05:30
-authors: ["Vikal Singh"]
-description: ""
-tags: ["docker","arch","systemd","linux","containers"]
-categories: [""]
-series: [""]
-url: ""
-externalLink: ""
-featuredImage: ""
-disableComments: true
 draft: false
 ---
 
 
 ##### Installing Docker
 Docker is installed via package manager.
+
 ###### Arch Linux
+
 ```yaml
 $ sudo pacman -S docker
 ```

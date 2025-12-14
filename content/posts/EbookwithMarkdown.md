@@ -1,20 +1,11 @@
 ---
 title: 'Ebook with Markdown'
 date: 2023-09-01T15:52:24+05:30
-authors: ["Vikal Singh"]
-description: ""
-tags: ["Bspwm","dmenu","st","linux","sxhkd","alacritty","polybar"]
-categories: [""]
-series: [""]
-url: ""
-slug: ""
-externalLink: ""
-featuredImage: ""
-disableComments: true
 draft: false
 ---
 
 Pandoc is a great tool for converting a file in one markup format into another. This means we can use it to convert a file written in Markdown into an EPUB file that is supported by many e-readers.
+
 
 Lets start by writting a very simple markdown file called example_ebook.md.
 
