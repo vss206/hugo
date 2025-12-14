@@ -1,4 +1,4 @@
-baseURL = "http://vss206.github.io/"
+baseURL = "http://learningsbyvs.vercel.app/"
 languageCode = "en-us"
 title = "Learnings by VS"
 theme = "ananke"
